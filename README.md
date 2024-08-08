@@ -32,3 +32,17 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** The analysis showed that female visitors represent 75% of the base, with clothing and cosmetics as top-selling categories.
 
+
+### Hardware Brand Revenue and Market Insightss
+**Code:** [`Hardware Brand Revenue and Market Insights`](https://github.com/SumedhGajghate/Data-Analyst-Portfolio/blob/master/BI%20dashboard.pdf)
+
+**Goal:** Identify revenue distribution and market trends for hardware brands to inform strategic decisions.
+
+**Description:**  Conducted a hardware brand revenue analysis using a methodical approach. Utilized AIMS grid for planning, MySQL for data preparation and cleaning, and connected Power BI to SQL Server. Performed ETL using Power Query and created dashboards with Power BI. Key insights: over 68% of revenue comes from a single city, and revenue peaks in the 3rd and 4th quarters.
+
+**Skills:** data preparation, data cleaning, ETL processes, data visualization, market analysis.
+
+**Technology:**  AIMS grid, MySQL, Power BI, SQL Server, Power Query.
+
+**Results:** The analysis showed that over 68% of revenue is from a single city, with revenue peaking in the 3rd and 4th quarters.
+
