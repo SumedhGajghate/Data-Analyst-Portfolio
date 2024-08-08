@@ -15,3 +15,20 @@ This is a repository to showcase skills, share projects and track my progress in
   - SQL + PowerBi
     - [Analyzing Revenue Patterns and Key Market Insights for a Hardware Brand](https://github.com/SumedhGajghate/Data-Analyst-Portfolio/blob/master/First%20power%20Bi%20Project.pbix)
   - Excel / Google Sheets
+
+## Portfolio Projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+### Retail Data Exploration: Identifying Key Sales Patterns and Customer Segments
+**Code:** [`Data Exploration: Identifying Key Sales Patterns and Customer Segments`](https://github.com/SumedhGajghate/Data-Analyst-Portfolio/blob/master/Customer%20shopping%20analysis.ipynb)
+
+**Goal:** Identify visitor demographics and top-selling categories to improve marketing and inventory.
+
+**Description:**  Conducted a retail data analysis using Python, Pandas, Matplotlib, and Seaborn within Jupyter Notebook on VS Code. The analysis revealed that female visitors account for 75% of the total visitor base, with clothing and cosmetics being the top-selling categories. The project involved data cleaning and univariate, bivariate, time series, and multivariate analyses.
+
+**Skills:** data cleaning, data analysis, data visualization, statistical analysis.
+
+**Technology:**  Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook, VS Code.
+
+**Results:** The analysis showed that female visitors represent 75% of the base, with clothing and cosmetics as top-selling categories.
+
